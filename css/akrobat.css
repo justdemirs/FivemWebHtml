@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Akrobat';
+    src: local('Akrobat'), local('Akrobat-Regular'), url('Akrobat.woff2') format('woff2'), url('Akrobat.woff') format('woff'), url('Akrobat.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Akrobat';
+    src: local('Akrobat Bold'), local('Akrobat-Bold'), url('Akrobatbold.woff2') format('woff2'), url('Akrobatbold.woff') format('woff'), url('Akrobatbold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Akrobat';
+    src: local('Akrobat ExtraBold'), local('Akrobat-ExtraBold'), url('Akrobatextrabold.woff2') format('woff2'), url('Akrobatextrabold.woff') format('woff'), url('Akrobatextrabold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Akrobat';
+    src: local('Akrobat Black'), local('Akrobat-Black'), url('Akrobatblack.woff2') format('woff2'), url('Akrobatblack.woff') format('woff'), url('Akrobatblack.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
