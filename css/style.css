@@ -41,6 +41,7 @@ body {
     font-size: 16px;
     background: #fff;
     color: #fff;
+    scroll-behavior: smooth;
 }
 * {
     outline: 0;
